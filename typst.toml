@@ -1,0 +1,11 @@
+[package]
+name = "flagtastic"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["@Narcha"]
+license = "MIT"
+description = "Flags for typst"
+repository = "https://github.com/Narcha/typst-flagtastic"
+categories = ["components"]
+keywords = ["flag", "flags", "country", "countries"]
+exclude = ["codegen"]

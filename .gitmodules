@@ -1,0 +1,6 @@
+[submodule "codegen/flagpack-core"]
+	path = codegen/flagpack-core
+	url = git@github.com:Yummygum/flagpack-core.git
+[submodule "flagpack-core"]
+	path = flagpack-core
+	url = git@github.com:Yummygum/flagpack-core.git
